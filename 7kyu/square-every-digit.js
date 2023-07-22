@@ -14,3 +14,4 @@ function squareDigits(num) {
       .map(value => value * value)
       .join("");
   }
+  
