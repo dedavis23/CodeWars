@@ -17,5 +17,5 @@ function toWeirdCase(string) {
           .map((v, i) => (i % 2 === 0 ? v.toUpperCase() : v.toLowerCase()))
           .join("")
       )
-      .join(" ");
+      .join(" "); string
   }
